@@ -1,2 +1,0 @@
-# LadderAndSnake
-A playful game!!!
